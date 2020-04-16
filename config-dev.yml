@@ -1,5 +1,5 @@
 config:
-  info: "comfig in github v1.0"
+  info: "comfig in github v2.0"
 
 eureka:
   client:
